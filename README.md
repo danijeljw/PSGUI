@@ -1,4 +1,5 @@
 ﻿# PSGUI with PSGUI-Manager
+ ![CI](https://github.com/danijeljw/PSGUI/workflows/CI/badge.svg)
 
 
 
